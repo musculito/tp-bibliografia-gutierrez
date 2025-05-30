@@ -1,0 +1,35 @@
+body{
+     font-family: "times new roman" , sans-serif;
+     background-color: darkorange;  
+     margin: 0;
+     padding: 0%;
+     box-sizing: border-box;
+     justify-content: center;
+     align-items: center;
+}
+.imagen{
+    display: block;
+    margin: 0 auto;
+}
+
+header{
+    justify-content: space-between;
+    align-items: center; 
+    background-color: brown;
+    padding: 0%; 
+}
+.titulo {
+  display: block;  text-align: center;
+}
+.link {
+    text-align: center;
+}
+#centrarVideo{
+    text-align: center;
+}
+input{
+    width: 300px;
+}
+.tamanioEnlace{
+   font-size: 25px;
+}
